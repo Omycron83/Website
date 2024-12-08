@@ -25,14 +25,14 @@ author:
   name             : "Damian Grunert"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Berlin"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "damian.grunert@gmx.de" 
 
   # Academic websites
-   arxiv            : # URL - Update with the correct link to your profile
-   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-4151-357X"
   #semantic         : # URL
