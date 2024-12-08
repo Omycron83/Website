@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Damian Grunert - CV"
+title                    : "CV - Website: Damian Grunert"
 title_separator          : "-"
 name                     : &name "Damian Grunert"
 description              : &description "personal description"
