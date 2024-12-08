@@ -21,7 +21,7 @@ repository               : "Omycron83/Website.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   name             : "Damian Grunert"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
