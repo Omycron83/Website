@@ -12,7 +12,7 @@ title                    : "CV - Website: Damian Grunert"
 title_separator          : "-"
 name                     : &name "Damian Grunert"
 description              : &description "personal description"
-url                      : https://Omycron83.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://Omycron83.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Omycron83/Website.github.io"
 
