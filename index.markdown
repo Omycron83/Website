@@ -5,4 +5,4 @@
 layout: home
 title : Blog
 ---
-This is my custom homepage !
+Welcome to my blog ! 
