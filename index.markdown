@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome to My Website
 ---
-This is my custom homepage.
+This is my custom homepage !
