@@ -5,4 +5,4 @@
 layout: home
 title : Blog
 ---
-Welcome to my blog ! 
+Welcome to my blog ! Trying to post some content here regularly about interesting experiences I've had and want to share :)
