@@ -8,7 +8,8 @@ permalink: /projects/
 - Will add soon
 
 ## Ongoing projects:
-- Will add soon
+- Working as a software-developer in the [FasTTUBE](fasttube.de) Formula Student Team for TU-Berlin
+    - Working with ROS, Gstreamer and YOLO object-detection in robot perception and sensor fusion area 
 
 ## Planned projects: 
 - Will add soon
