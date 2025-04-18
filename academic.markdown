@@ -13,7 +13,8 @@ permalink: /academic/
 - Finished courses in Datastructures and Algorithms, Real Analysis, Linear Algebra, Probability Theory and Nonlinear Optimization 
 
 ### Dual bachelor at TU-Berlin (WiSe 24/25 - SoSe 26)
-- Dual majoring in math and computer science at TU-Berlin
+- Dual majoring in math and computer science at TU-Berlin (two independent Mono-Bachelor Programs)
+    - Math: Specialising in probability theory, stochastic optimization and machine learning
 
 ## Other experience:
-- None yet, but I'm open :)
+- None yet, but I'm always open :)
