@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title : Blog
+title : Introduction
 ---
-Welcome to my blog ! Trying to post some content here regularly about interesting experiences I've had and want to share :)
+-- Insert Cover Letter --

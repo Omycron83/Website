@@ -29,8 +29,8 @@ github_username:  Omycron83
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # port: 4001
 # Exclude from processing.
