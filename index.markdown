@@ -5,4 +5,6 @@
 layout: home
 title : Introduction
 ---
--- Insert Cover Letter --
+My name is Damian, and thats all you need to know for now :)
+
+![Profilbild](/assets/images/3.jpg)
