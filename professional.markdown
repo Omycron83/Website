@@ -11,6 +11,3 @@ permalink: /professional/
 ## Current positions:
 - Working as an AI Software-Developer for [Coac GmBH](https://www.coac.de/) (March 2025 - Ongoing)
     - Developing document extraction products for the chemical- and pharameceutical industry
-
-## Career ambitions:
-- Seeing where this leads me :)

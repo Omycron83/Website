@@ -14,7 +14,7 @@ permalink: /academic/
 
 ### Dual bachelor at TU-Berlin (WiSe 24/25 - SoSe 26)
 - Dual majoring in math and computer science at TU-Berlin (two independent Mono-Bachelor Programs)
-    - Math: Specialising in probability theory, stochastic optimization and machine learning
+    - Math: Specialising in probability theory, stochastic optimization, functional analysis and statistical learning 
 
 ## Other experience:
 - None yet, but I'm always open :)
