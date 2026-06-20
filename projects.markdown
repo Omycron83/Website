@@ -29,6 +29,11 @@ and hardware integration.
 - Implemented Bayesian Optimization to optimize pure-pursuit parameters for different tracks
 - Improved performance from previous hand-tuning by ... %
 
+<div class="video-row" markdown="0">
+  <img src="/assets/videos/edited_lidar.gif" alt="LiDAR autonomous driving visualization">
+  <img src="/assets/videos/car.gif" alt="Autonomous driving visualization">
+</div>
+
 #### Experience
 - Participation in the VDE E-Race and FSCzech events in the 2025 season
   - Presented and defended software choices in Engineering Design Discipline
