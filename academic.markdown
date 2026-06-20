@@ -38,7 +38,7 @@ permalink: /academic/
     - Presented on paper on convergence guarantees of proximal policy optimization
 
   - Mathematical Foundations of Machine Learning
-    - Theoretical foundations of statistical learning in Probibly-Approximately-Correct (PAC) learning framework
+    - Theoretical foundations of statistical learning in Probably-Approximately-Correct (PAC) learning framework
 
   - High-Dimensional Optimization and Learning
     - Theory of convex optimization and online learning
