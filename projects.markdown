@@ -3,24 +3,50 @@ layout: page
 title: Personal projects
 permalink: /projects/
 ---
-## Ongoing projects:
 
-### Software-Developer at [FasTTUBE](fasttube.de)
-At the FormulA STudent Team TU-BErlin, we prepare for and then participate in the yearly formula-student events
+### Autonomous Racing Software-Developer at [FaSTTUBe](fasttube.de)
+(WiSe 2024 - Ongoing)
+
+At the **F**ormul**a** **S**tudent **T**eam **TU**-**Be**rlin, we prepare for and then participate in the yearly formula-student events
 hosted all over europe with an electric race car that is designed and build from scratch - every year - by over 80 students
-from programs and universities all over berlin. As we don't just compete in the manual, but also autonomous divisions, this not only
+from programs and universities all over berlin. 
+
+As we don't just compete in the manual, but also **autonomous** divisions, this not only
 poses challenges in mechanical- and electrical engineerings, but also at the intersection of machine learning software, robotics
 and hardware integration.
 
-Personally, I started at the beginning of this season (WiSe 2024/25) in the software-team as I was looking to apply my knowledge 
-and sharpen my robotics-skills after my start as a full-time student. I felt that this was not only a fun way to engage 
-in interdisciplinary work, but also something I could learn a lot from.
+![Me in the (autonomous) FT25](/assets/images/incar.png)
 
-Thus, over this season, I was able to deeply sink into the forefront of how to make autonomous race-car driving work
-on limited hardware capabilities. Starting with a complete hardware change and a team comprised of only new members, we had 
-to adapt to and completely overhaul the technically very good (parts of it actually being used in teams all over europe, I discovered at this years [ARWO](https://arwo.hamburg/)!), though underdocumented code-base that was left by a team of highly-experienced coders from the last seasons.
+#### Work
+- Improving and building autonomous driving pipeline with ROS2 in Python and C++ 
 
-This forced us to take a deep-dive into gsteamer, which we use to efficiently perform object detection from our two cameras, as well as 
-ROS2, which connects the various parts of our code base. As the former is still under active development, this meant sorting through large C++ files and writing our own plugins to support our need to process camera input at a high frequency on our limited Intel-NUC hardware.
+- Creating new Gstreamer object-detection pipeline for cone image recognition
+- Training and dataset-based quantization of YOLO model
+- Efficient inference with onnxruntime and openvino
+- Integration and sensor-fusion with LiDaR clustering data to validate and detect cone colors
 
-Furthermore, it also meant communicating with other parts of our team about the electronics powering our hardware, the integration and calibration of the steering equipment as well as the technical features the ever-evolving car design influenced on our cameras. Thus, it was essential to always improve ones' communication skills and team-work.
+- Rewrote Gazebo simulation setup for efficient simulation and evaluation of driving runs
+- Implemented Bayesian Optimization to optimize pure-pursuit parameters for different tracks
+- Improved performance from previous hand-tuning by ... %
+
+#### Experience
+- Participation in the VDE E-Race and FSCzech events in the 2025 season
+  - Presented and defended software choices in Engineering Design Discipline
+
+- Attendendance of the 2025 and 2026 Autonomous Racing Workshop [ARWo](https://arwo.hamburg/) at TU-Hamburg
+  - Presented on software optimization for embedded deep-learning and computer vision algorithms
+
+![ARWo Presentation 2026](/assets/images/arwo.png)
+
+### Teaching Robotics at [RobotX Workshops](https://robotxworkshops.tech/) 
+- Presenting core principles and recent advances in LiDaR-based autonomous driving 
+- Guiding hands-on experiments with 1/10th race car
+- Showing manual exploration and impact of pure-pursuit parameters 
+
+![A very bad picture of me at the workshop](/assets/images/robotx.png)
+### WIP ???
+- Developing web-app for (WIP)
+- Designing and optimizing database schemes
+- Managing team development environment with VPN and remote server
+- Authentication management with JWT via cookies
+- Application deployment with docker, nginx and FastAPI
